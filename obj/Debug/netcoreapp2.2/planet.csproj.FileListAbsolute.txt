@@ -1,0 +1,11 @@
+/Users/dekhaji/workspace/csharp/planet/bin/Debug/netcoreapp2.2/planet.deps.json
+/Users/dekhaji/workspace/csharp/planet/bin/Debug/netcoreapp2.2/planet.runtimeconfig.json
+/Users/dekhaji/workspace/csharp/planet/bin/Debug/netcoreapp2.2/planet.runtimeconfig.dev.json
+/Users/dekhaji/workspace/csharp/planet/bin/Debug/netcoreapp2.2/planet.dll
+/Users/dekhaji/workspace/csharp/planet/bin/Debug/netcoreapp2.2/planet.pdb
+/Users/dekhaji/workspace/csharp/planet/obj/Debug/netcoreapp2.2/planet.csprojAssemblyReference.cache
+/Users/dekhaji/workspace/csharp/planet/obj/Debug/netcoreapp2.2/planet.csproj.CoreCompileInputs.cache
+/Users/dekhaji/workspace/csharp/planet/obj/Debug/netcoreapp2.2/planet.AssemblyInfoInputs.cache
+/Users/dekhaji/workspace/csharp/planet/obj/Debug/netcoreapp2.2/planet.AssemblyInfo.cs
+/Users/dekhaji/workspace/csharp/planet/obj/Debug/netcoreapp2.2/planet.dll
+/Users/dekhaji/workspace/csharp/planet/obj/Debug/netcoreapp2.2/planet.pdb
